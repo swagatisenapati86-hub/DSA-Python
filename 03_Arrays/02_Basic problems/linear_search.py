@@ -1,4 +1,4 @@
-#Problem: Given an array and a target, determine whether the target exists in the array.
+# Problem: Given an array and a target, determine whether the target exists in the array.
 arr = [4,5,6,78,9,20]
 target=int(input("Enter the target value to search:"))
 
